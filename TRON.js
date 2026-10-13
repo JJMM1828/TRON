@@ -39,28 +39,7 @@ const TIPOS_OBJETO = [
   { nombre: 'PUNTOS',    letra: 'P', color: '#b8fff0' }
 ];
 
-const MAPA_SPRITE = [
-  '.NNNNNNNNN.',
-  'NOOBBBBBCCN',
-  'NOOBBBBBBCN',
-  'NOOBBBBBBCN',
-  'NNNNNNNNNNN',
-  'NOOBBBBBBCN',
-  'NVOBBBBBBVN',
-  'NVOBBBBBBVN',
-  'NVOBBBBBBVN',
-  'NVOBBBBBBVN',
-  'NNVVVVVVVNN',
-  'NVVVVVWVVVN',
-  'NVVVVVVVVVN',
-  '.NNVVVVVNN.',
-  'NOOBBBBBBCN',
-  'NOOBBBBBBCN',
-  'NOOBBBBBBCN',
-  'NOBBBBBBBCN',
-  '.NOBBBBBCN.',
-  '.NNNNNNNNN.'
-];
+
 const PALETA_AZUL = {
   N: '#000000', O: '#2f3f7f', B: '#4a5c96', C: '#6070a0', V: '#78ffff', W: '#ffffff'
 };
